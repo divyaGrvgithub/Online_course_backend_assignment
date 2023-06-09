@@ -48,3 +48,4 @@ Consider using a web framework like Django, Flask, or Express.js to streamline t
 
 These are some of the core functionalities and considerations when building a backend system for an online course platform. The specific implementation details may vary depending on your platform's requirements and technologies chosen.
 
+

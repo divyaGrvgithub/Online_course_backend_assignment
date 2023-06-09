@@ -14,7 +14,7 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/divyaGrvgithub/Online_course_backend_assignment/issues"
-  },
+  },  
   "homepage": "https://github.com/divyaGrvgithub/Online_course_backend_assignment#readme",
   "dependencies": {
     "install": "^0.13.0",
