@@ -1,4 +1,4 @@
-# Online_course_backend_assignment
+# Online_Course_backend_assignment
 # Objective: Build a backend system for an online course platform that allows users to browse, enroll in, and manage online courses.
 
 # Requirements:
