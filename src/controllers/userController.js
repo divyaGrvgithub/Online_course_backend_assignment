@@ -16,7 +16,7 @@ const registerUser = async (req, res) => {
 
     // Create a new user
     const newUser = new User({
-      name,
+      name: divyaGrv,
       email,
       password: hashedPassword,
     });
