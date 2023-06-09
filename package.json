@@ -1,0 +1,26 @@
+{
+  "name": "online_course_backend_assignment",
+  "version": "1.0.0",
+  "description": "Design a database schema to store information related to users, courses, lessons, enrollments, and progress tracking. You can use a relational database like MySQL or PostgreSQL.\r Identify the necessary tables and their relationships, such as users, courses, lessons, enrollments, and progress. Define the appropriate columns for each table.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyaGrvgithub/Online_course_backend_assignment.git"
+  },
+  "author": "divyaGrv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyaGrvgithub/Online_course_backend_assignment/issues"
+  },
+  "homepage": "https://github.com/divyaGrvgithub/Online_course_backend_assignment#readme",
+  "dependencies": {
+    "install": "^0.13.0",
+    "json": "^11.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.2",
+    "nodemon": "^2.0.22"
+  }
+}
