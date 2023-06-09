@@ -1,7 +1,4 @@
 # Online_course_backend_assignment
-
-`A backend system for an online course platform enables users to browse, enroll in, and manage courses. It includes features like user authentication, course management, enrollment tracking, payment processing, discussion forums, analytics, notifications, and scalability considerations. `
-
 # Objective: Build a backend system for an online course platform that allows users to browse, enroll in, and manage online courses.
 
 # Requirements:
@@ -49,6 +46,5 @@ Document the API endpoints and their functionalities, including request/response
 Provide instructions on how to set up and run the application.
 Consider using a web framework like Django, Flask, or Express.js to streamline the development process. You can also use libraries like SQLAlchemy or Mongoose for interacting with the database.
 
-`These are some of the core functionalities and considerations when building a backend system for an online course platform. The specific implementation details may vary depending on your platform's requirements and technologies chosen.`
-
+These are some of the core functionalities and considerations when building a backend system for an online course platform. The specific implementation details may vary depending on your platform's requirements and technologies chosen.
 
